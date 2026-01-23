@@ -17,7 +17,7 @@
   <a href="https://github.com/Nitin204/"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/></a>
   <a href="https://nitinkatoreportfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge"/></a>
   <a href="mailto:nitinkatore686@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nitinkatore/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nitin_katore_5677"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -81,6 +81,9 @@ Knowledgeable in **MVC architecture, JWT authentication, database design**, and 
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Copyright--2026--Nitin_Katore-blue?style=flat-square" />
