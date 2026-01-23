@@ -1,94 +1,104 @@
-<p align="center">
-  <img src="assets/welcome.gif" width="200"/>
-</p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #ff6a00, #ee0979); -webkit-background-clip: text; color: transparent;">
-    Hi there 👋, I'm Nitin Katore
-  </span>
-</h1>
+<h1 align="center">Hi 👋, I'm Nitin Katore</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Backend+Enthusiast;React+Frontend+Architect;Problem+Solver">
+I am a Fresher **Java / Full Stack Developer** with a focus on building scalable web applications. I love how code transforms logic into user experiences. Experienced in **Spring Boot, React, and Database Management**, I am constantly exploring new ways to optimize performance and security.
 </p>
+
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Nitin204&label=Profile%20views&color=FF69B4&style=flat" alt="Nitin Katore" /> 
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+Expert;React+Enthusiast;Problem+Solver" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 I’m currently working on **Full Stack PC Build Website**
+- 🌱 I’m currently learning **Advanced Microservices & Cloud Deployment**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nitinkatoreportfolio.netlify.app)
+- 💬 Ask me about **Java, Spring Boot, and React**
+- 📫 How to reach me **nitinkatore686@gmail.com**
+- 📄 Checkout my **[LinkedIn Profile](https://www.linkedin.com/in/nitinkatore/)**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/nitinkatore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nitin Katore" height="30" width="40" /></a>
+<a href="https://github.com/Nitin204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Nitin Katore" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nitinkatore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nitin Katore" height="30" width="40" /></a>
+</p>
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- **Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs,express,js" />
+  </a>
+</p>
+
+- **Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,js,ts,redux" />
+  </a>
+</p>
+
+- **Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+  </a>
+</p>
+
+- **Tools & Platforms**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,vercel,netlify,docker" />
+  </a>
+</p>
+
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitin204&theme=radical&show_icons=true&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nitin204&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Nitin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitin204&theme=react-dark&bg_color=0D1117&color=ff6a00&line=ff6a00&point=ee0979&area=true&hide_border=true)
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitinkatore/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Nitin204/"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://nitinkatoreportfolio.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge"/></a>
-  <a href="mailto:nitinkatore686@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nitin_katore_5677"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <br>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 </p>
 
----
-
-## 🚀 <marquee behavior="scroll" direction="left" scrollamount="12">Animated Stats & Activity</marquee>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitin204&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin204&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin204&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🌈 <marquee behavior="scroll" direction="left" scrollamount="10">Professional Summary</marquee>
-
-Fresher **Java / Full Stack Developer** with strong fundamentals in Java, Spring Boot, and web development.  
-Experienced in building full-stack applications using **React, REST APIs, MySQL & MongoDB**.  
-Knowledgeable in **MVC architecture, JWT authentication, database design**, and developing scalable, secure, user-friendly applications.  
-
----
-
-## 🛠️ <marquee behavior="scroll" direction="left" scrollamount="10">Moving Tech Stack</marquee>
-
-<p align="center">
-  <marquee scrolldelay="50" scrollamount="6" direction="left" behavior="alternate" width="90%">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="50" height="50" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" />
-  </marquee>
-</p>
-
----
-
-## 🚀 <marquee behavior="scroll" direction="left" scrollamount="12">Key Projects</marquee>
-
-### 1️⃣ PC Build Website – Full Stack Application
-**Technologies:** React, Spring Boot, REST APIs, JWT, MongoDB, Tailwind CSS  
-
-
-### 2️⃣ Nagarseva Smart City – Complaint Management System
-**Technologies:** Java, JSP, Servlets, Spring Boot, MySQL, Bootstrap  
-
----
-
-## 🎉 <marquee behavior="scroll" direction="left" scrollamount="12">Fun Facts</marquee>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-- Coffee ☕ + Code 💻 = Happy Me 😄  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Copyright--2026--Nitin_Katore-blue?style=flat-square" />
-  <br />
-  <b>Designed with ❤️ by Nitin Katore</b>
-  <br />
-  <img src="https://img.shields.io/github/last-commit/Nitin204/Nitin204?style=flat-square&label=Last%20Updated&color=ee0979" />
 </p>
+<p align="right"> Created with 🧡 by <a href="https://nitinkatoreportfolio.netlify.app">Nitin Katore</a></p>
