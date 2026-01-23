@@ -53,10 +53,6 @@ All my projects are available at my workspace: [Nitin's Workspace](#)
 
 ---
 
-## 📊 GitHub Stats
-
-![Thite Shubham GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiteShubham&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThiteShubham&theme=radical)
 
 ---
 
