@@ -1,64 +1,74 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+# Hi there 👋, I'm Nitin Katore
 
-<h1 align="center">Hi 👋, I'm Nitin Katore</h1>
-<h3 align="center">A passionate Full Stack Developer from Pune, India</h3>
+## About Me
+I am a passionate Full Stack Developer from Pune, Maharashtra, India 💻. I love building web and mobile applications, exploring new technologies, and learning continuously to enhance my skills in software development. 🚀  
 
-<p align="center">I love exploring new technologies 💻, building web and mobile apps 📱, and continuously improving my skills in Java, Kotlin, Spring Boot, React, and full-stack development 🚀.</p>
+Currently pursuing **Master of Computer Application (MCA)** at **JSPM University** and have completed **Bachelor of Computer Science (B.Sc.)** from **Savitribai Phule Pune University (2021–2024)**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitin204&label=Profile%20views&color=0e75b6&style=flat" alt="Nitin Katore" />
-</p>
+---
 
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/springboot-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/html-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/css-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="51" style="margin-right: 15px;" />
-    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="51" />
-  </div>
-</div>
+## Contact
+- 📧 Email: [nitinkatore686@gmail.com](mailto:nitinkatore686@gmail.com)  
+- 📱 Phone: +91-7887782951  
+- 🌐 Portfolio: [https://nitinkatoreportfolio.netlify.app](https://nitinkatoreportfolio.netlify.app)  
+- GitHub: [https://github.com/Nitin204](https://github.com/Nitin204)  
 
-<br>
+## Social Links
+- LinkedIn: [https://www.linkedin.com/in/nitinkatore](https://www.linkedin.com/in/nitinkatore)  
+- X / Twitter: [https://twitter.com/nitinkatore](https://twitter.com/nitinkatore)  
+- Instagram: [https://www.instagram.com/nitinkatore](https://www.instagram.com/nitinkatore)  
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+---
 
-- 🔭 I’m currently working on **NextJs & Android Kotlin Projects**  
-- 🌱 I’m currently learning **IoT and Advanced Full Stack Concepts**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://nitinkatoreportfolio.netlify.app)  
-- 💬 Ask me about **Java, Kotlin, React, Spring Boot, and Node.js**  
-- 📫 How to reach me **[nitinkatore686@gmail.com](mailto:nitinkatore686@gmail.com)**  
+## Professional Summary
+Fresher **Java / Full Stack Developer** with strong fundamentals in Java, Spring Boot, and web development. Experienced in building full-stack applications using React, REST APIs, and MySQL/MongoDB. Knowledgeable in **MVC architecture**, **JWT authentication**, and **database design**. Passionate about developing **scalable, secure, and user-friendly applications**.
 
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nitinkatore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/nitinkatore" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png" alt="twitter" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/nitinkatore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
+---
 
-<br>
-<h3 align="left">Projects & Work:</h3>
-<ul>
-  <li><b>Fitness Mobile App (Kotlin/Android)</b> – Track workouts, diet, and fitness goals.</li>
-  <li><b>Food Order App (Kotlin/Android)</b> – Full-featured food ordering system.</li>
-  <li><b>Bank Management System (Kotlin/Android)</b> – Registration, login, and basic banking functionalities.</li>
-  <li><b>PC Build Website (React + Node.js + MySQL)</b> – Full-stack website for custom PC building.</li>
-</ul>
+## Technical Skills
+- **Programming Languages:** Java, C  
+- **Frontend:** HTML5, CSS3, Bootstrap, React  
+- **Backend:** Java, JSP, Servlets, Spring, Spring Boot  
+- **Databases:** MySQL, MongoDB  
+- **Tools & IDEs:** Git, GitHub, VS Code, Eclipse  
+- **Other Skills:** Debugging, Problem Solving, Responsive Web Design  
 
-<br>
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitin204&theme=midnight-purple&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nitin204&theme=midnight-purple)](https://git.io/streak-stats)
-</div>
+---
 
-<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## Projects
 
-<p align="right">Created with 🧡 by <a href="https://github.com/Nitin204">Nitin Katore</a></p>
+### 1) PC Build Website – Full Stack Application
+**Technologies:** React, Spring Boot, REST APIs, JWT, MongoDB, Tailwind CSS  
+- Developed a full-stack web application to build custom PCs by selecting compatible components  
+- Implemented **user authentication and authorization using JWT**  
+- Designed **admin panel** to manage products, inventory, and user orders  
+- Implemented **dynamic price calculation** based on selected components  
+- Built **RESTful APIs** for frontend-backend communication  
+- Deployed **frontend on Vercel** and **backend on Render**  
+
+### 2) Nagarseva Smart City – Complaint Management System
+**Technologies:** Java, JSP, Servlets, Spring Boot, MySQL, HTML, CSS, Bootstrap  
+- Developed a web-based system for managing citizen complaints  
+- Implemented **complaint registration with image and location upload**  
+- Designed **separate dashboards** for Admin and Citizen users  
+- Integrated **MySQL database** for storing complaints and user data  
+- Followed **MVC architecture** for clean and maintainable code  
+
+---
+
+## Certifications
+- **C Programming Language**, Modern Institute, Shirur (2022)  
+- **Full Stack Java Development**, Envision Institute (2024)  
+
+---
+
+## Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
